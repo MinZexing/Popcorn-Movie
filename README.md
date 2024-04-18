@@ -17,5 +17,7 @@ These instructions will guide you on how to get a copy of the project up and run
 Before you begin, ensure you have npm installed, which you can do by running:
 
 git clone https://github.com/MinZexing/Popcorn-Movie
+
 cd to target folder
+
 npm start
